@@ -1,5 +1,4 @@
-# EX.-NO-1-D-IMPLEMENTATION-OF-VIGENERE-CIPHER
-
+# EX.NO : 1(D) VIGENERE CIPHER
 ## AIM:
   To implement the Vigenere Cipher substitution technique using C program.
   
